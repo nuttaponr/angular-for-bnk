@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1,
+    "Name": "Cherprang ",
+    "ImgUrl": "https://i.ytimg.com/vi/6crAs7KLWl8/maxresdefault.jpg",
+    "InstagramId": "cherprang.bnk48official"
+  },
+  {
+    "_id": 2,
+    "Name": "Orn",
+    "ImgUrl": "https://media-spiceee.net/uploads/content/image/1643617/large_3ec1f891-1a5c-4905-b298-4cb27667320c.jpg",
+    "InstagramId": "orn.bnk48official"
+  },
+  {
+    "_id": 3,
+    "Name": "Music",
+    "ImgUrl": "https://i.pinimg.com/736x/3a/3d/56/3a3d569c3186f168e30256b46095e8de.jpg",
+    "InstagramId": "music.bnk48official"
+  },
+  {
+    "_id": 4,
+    "Name": "Pun",
+    "ImgUrl": "https://i.pinimg.com/736x/cf/ed/05/cfed05907f9acbb70300dcb38b3eb1e2.jpg",
+    "InstagramId": "pun.bnk48official"
+  },
+  {
+    "_id": 5,
+    "Name": "Mobile",
+    "ImgUrl": "https://lifestyle.campus-star.com/app/uploads/2018/01/Mobile-BNK48-4.jpg",
+    "InstagramId": "mobile.bnk48official"
+  },
+  {
+    "_id": 6,
+    "Name": "Jennis",
+    "ImgUrl": "https://themomentum.co/wp-content/uploads/2018/01/TheMomentum-Jennis-Cover-1.png",
+    "InstagramId": "jennis.bnk48official"
+  }
+]
